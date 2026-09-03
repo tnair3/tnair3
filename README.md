@@ -21,7 +21,7 @@
   <img src="./XAML_logo.svg" height="60" alt="XAML" style="margin-right: 10px;" />
 </div>
 
-### Frameworks & Technologies
+### Frameworks & Technologies I've Used
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="Jetpack Compose" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg" height="60" alt="Vulkan" style="margin-right: 10px;" />
