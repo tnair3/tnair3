@@ -1,10 +1,14 @@
-<h1 align="center">Hi there, I'm Tejas 👋 </h1>
+<h1 align="center">Hi, I'm Tejas 👋</h1>
 
-<h3 align="center">📞 Contact Me</h3>
+<p align="center">
+<b>2nd Year Computer Science Student at King's College London</b><br>
+</p>
 
 <div align="center">
-  <p>Gmail: <a href="mailto:nairstejas@gmail.com">nairstejas@gmail.com</a></p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/tejas-nair-063737299/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/tejas-nair-063737299/</a></p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nairstejas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/tejas-nair-063737299/)
+
 </div>
 
 ---
@@ -74,3 +78,12 @@ This project is still in development with a number of features still incomplete 
 
 This project is completed and the final release can be downloaded from the repository
 </p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tnair3&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnair3&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" />
+</div>
