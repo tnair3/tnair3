@@ -45,39 +45,50 @@
 
 ---
 
-<h3>👾 What I'm Working On</h3>
+<h3>👾 Featured Projects</h3>
 
-### [Daedalus Engine](https://github.com/tnair3/Daedalus) `C++` `C#` `XAML` `Vulkan` `Avalonia UI`
-<p>This is my most ambitious project, an attempt to create a game engine using the Vulkan graphics API, split into 3 main modules that I can develop independently:
-  
-  - An application launcher, built using the Avalonia framework in C# and XAML, a  high speed entry point into the application and a project browser.
-  - The project editor UI built using Dear ImGUI with the Vulkan and GLFW backends in C++.
-  - The main engine logic using C++ with the Vulkan and GLFW backends for cross-platform functionality.
+[![Daedalus Engine Title](https://img.shields.io/badge/-%20Daedalus%20Engine-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnair3/Daedalus)
+![](https://img.shields.io/badge/In_Active_Development-ff69b4?style=for-the-badge)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/Vulkan-AC171A?style=for-the-badge&logo=vulkan&logoColor=white)
+![](https://img.shields.io/badge/Dear_ImGui-713333?style=for-the-badge)
+![](https://img.shields.io/badge/Avalonia_UI-330066?style=for-the-badge)
 
-This project is still far from completion but is being actively worked on as I also learn about graphics programming alongside the development
-</p>
+An ambitious game engine using the Vulkan graphics API, split into three modular components:
 
-### [Media Player](https://github.com/tnair3/MediaPlayer) `Kotlin` `Jetpack Compose` `Android`
-<p>A local media player application built using Kotlin that allows users to upload audio files and listen in the application. Key features include:
+* **Application Launcher:** Entry point and project browser built with Avalonia UI (C# / XAML)
+* **Project Editor UI:** UI built using Dear ImGui with Vulkan and GLFW backends (C++)
+* **Core Engine:** Cross-platform runtime, physics, and rendering logic (C++)
 
-  - Upload and listen to audio files offline
-  - Create playlists
-  - Favourite songs
-  - Device recording and audio trimming
+<br>
+</br>
 
-This project is still in development with a number of features still incomplete or not begun, however a minimal application is complete that allows users to listen to songs with things such as playlists
-</p>
+[![Media Player Title](https://img.shields.io/badge/-%20Media%20Player-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnair3/MediaPlayer)
+![](https://img.shields.io/badge/In_Active_Development-ff69b4?style=for-the-badge)
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### [Pacman Game](https://github.com/tnair3/NEA-A-Level-2024-25) `Python` `Pygame` `sqlite3`
-<p>This is a pacman game created for my A-Level Computer Science coursework. Made in python using the pygame library, it is designed to function similar to the classic game with further additions for the coursework. Key features include:
-  
-  - Standard pacman map gameplay
-  - Random procedurally generated map
-  - Account system
-  - Leaderboard system
+A native Android media player application for offline audio playback and recording
 
-This project is completed and the final release can be downloaded from the repository
-</p>
+* Upload and play local audio files offline
+* Create playlists and mark favourite songs
+* Integrated device recording and audio trimming features `In Development`
+
+<br>
+</br>
+
+[![Pacman Game Title](https://img.shields.io/badge/-%20Pacman%20Game-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnair3/NEA-A-Level-2024-25)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Pygame-ED213A?style=for-the-badge)
+![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+A Pacman game developed for A-Level Computer Science coursework featuring traditional gameplay and procedural generation
+
+* Standard arcade gameplay alongside procedurally generated maps
+* SQLite-backed user account system
+* Persistent leaderboard tracking
 
 ---
 
