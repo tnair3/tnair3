@@ -48,7 +48,7 @@
 <h3>👾 Featured Projects</h3>
 
 [![Daedalus Engine Title](https://img.shields.io/badge/-%20Daedalus%20Engine-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnair3/Daedalus)
-![](https://img.shields.io/badge/In_Active_Development-ff69b4?style=for-the-badge)
+![In Active Development](https://img.shields.io/badge/In_Active_Development-ff69b4?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC171A?style=for-the-badge&logo=vulkan&logoColor=white)
@@ -65,7 +65,7 @@ An ambitious game engine using the Vulkan graphics API, split into three modular
 </br>
 
 [![Media Player Title](https://img.shields.io/badge/-%20Media%20Player-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnair3/MediaPlayer)
-![](https://img.shields.io/badge/In_Active_Development-ff69b4?style=for-the-badge)
+![In Active Development](https://img.shields.io/badge/In_Active_Development-ff69b4?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
