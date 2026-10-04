@@ -34,7 +34,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-21A8F2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-21A8F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik03MC45MTEgOTkuMzE3QzczLjQ4NyA5OS45MyA3NC4yODMgOTkuODkxIDc1Ljg3MyA5OS4xMjZMOTYuNDYxIDg5LjIyQzk4LjYyNCA4OC4xNzkgMTAwIDg1Ljk4OSAxMDAgODMuNTg3VjE2LjQxM0MxMDAgMTQuMDExIDk4LjYyNCAxMS44MjIgOTYuNDYxIDEwLjc4MUw3NS44NzMgLjg3NEM3My43ODYgLS4xMyA3MS4zNDUgLjExNiA2OS41MTMgMS44NDdMMjkuMzU1IDM4LjA0MkwxMi4xODcgMjUuMDEgQzEwLjU4OSAyMy43OTcgOC4zNTQgMjMuODk2IDYuODY5IDI1LjI0NkwxLjM2MyAzMC4yNTRDLTQ1MyAzMS45MDYgLS40NTUgMzQuNzYzIDEuMzU5IDM2LjQxN0wxNi4yNDcgNTBMLS40NTUgNjMuNTgzQy0uNDUzIDY1LjIzNyAtLjQ1NSA2OC4wOTQgMS4zNjMgNjkuNzQ1TDYuODY5IDc0Ljc1NEM4LjM1NCA3Ni4xMDQgMTAuNTg5IDc2LjIwNCAxMi4xODcgNzQuOTkxTDI5LjM1NSA2MS45NTlMNjguNzY5IDk3LjkxN0M2OS4zOTMgOTguNTQxIDcwLjEyNSA5OS4wMSA3MC45MTEgOTkuMzE3Wk03NS4wMTUgMjcuMjk5TDQ1LjEwOSA1MEw3NS4wMTUgNzIuNzAxVjI3LjI5OVoiLz48L3N2Zz4%3D&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-A555F5?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
