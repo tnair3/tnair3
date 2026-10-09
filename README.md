@@ -20,7 +20,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00589C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF7F27?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-C412E2?style=for-the-badge&logo=kotlin&logoColor=white)
-![XAML](https://img.shields.io/badge/XAML-357BD3?style=for-the-badge&logo=windows&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3775A5?style=for-the-badge&logo=python&logoColor=white)
 
 #### Frameworks & Technologies
@@ -49,6 +49,7 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC171A?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Dear ImGui](https://img.shields.io/badge/Dear_ImGui-FFA227?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-165BFF?style=for-the-badge&logo=avaloniaui&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-357BD3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+WEFNTDwvdGl0bGU+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNi4zOTEyIDEuNTM3M2EuNzg0Ny43ODQ3IDAgMCAwLS42NzkuMzkxNGwtNS42MDY1IDkuNjc4YS43ODQ3Ljc4NDcgMCAwIDAgMCAuNzg2N2w1LjYwNjUgOS42Nzc5YS43ODQ3Ljc4NDcgMCAwIDAgLjY3OS4zOTE0aDExLjIxNzZjLjI4IDAgLjUzODctLjE0OTIuNjc5LS4zOTE0bDUuNjA2NS05LjY3OGEuNzg0Ny43ODQ3IDAgMCAwIDAtLjc4NjdsLTUuNjA2NS05LjY3NzlhLjc4NDguNzg0OCAwIDAgMC0uNjc5LS4zOTE0em0uMDMwMi44MzdoMTAuNTQybC01LjIwOTMgOS4yMTEySDUuOTY3OWw0LjcxOTYtOC4xNzQ3YS4xMzA4LjEzMDggMCAwIDAtLjExMzItLjE5NjJMNy41MDYyIDMuMjEzYS4yNjE1LjI2MTUgMCAwIDAtLjIyNjYuMTMwN2wtNC43NjMzIDguMjQxOWgtMS40MzF6bTExLjMzMjUuMzAyNUwyMy4xNTQ5IDEybC01LjM3MjIgOS4yNzM1LTUuMjk4Ny05LjI3ODR6bS4xNzEyIDIuODI0OGEuMTI5NS4xMjk1IDAgMCAwLS4xMTMyLjA2NjVsLTEuNTE4NiAyLjY4OWEuMjYxNi4yNjE2IDAgMCAwIC4wMDEzLjI1OTVsMS45NDMgMy4zNjExYS4yNjE1LjI2MTUgMCAwIDEgMCAuMjYxN2wtMS45MjY4IDMuMzM3NWEuMjYxNi4yNjE2IDAgMCAwLS4wMDA2LjI2MDVsMS41MjcyIDIuNjc0MmMuMDUuMDg3Ny4xNzYzLjA4OC4yMjY4LjAwMDZsMy41NTAzLTYuMTQzMWEuNTIzMS41MjMxIDAgMCAwLS4wMDAxLS41MjM4TDE4LjAzOSA1LjU2N2EuMTI5NS4xMjk1IDAgMCAwLS4xMTM5LS4wNjUzek0xLjA5IDEyLjQyMjVoMS40MzYzbDQuNzYzNCA4LjIzMTRhLjI2MTYuMjYxNiAwIDAgMCAuMjI2Mi4xMzA1bDMuMDcxOC4wMDE4YS4xMzA4LjEzMDggMCAwIDAgLjExMzMtLjE5NjJsLTQuNzIxNS04LjE2NzVoNS43ODQ4bDUuMjU1NyA5LjIwMzJINi40MjE0eiIvPjwvc3ZnPg0K&logoColor=white)
 
 An ambitious game engine using the Vulkan graphics API, split into three modular components:
 
