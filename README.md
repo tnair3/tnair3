@@ -2,6 +2,7 @@
 
 <p align="center">
 <b>2nd Year Computer Science Student at King's College London</b><br>
+<b>Currently building a Vulkan 2D engine; looking for summer 2027 internships</b><br>
 </p>
 
 <div align="center">
@@ -51,11 +52,11 @@
 ![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-165BFF?style=for-the-badge&logo=avaloniaui&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-357BD3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+WEFNTDwvdGl0bGU+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNi4zOTEyIDEuNTM3M2EuNzg0Ny43ODQ3IDAgMCAwLS42NzkuMzkxNGwtNS42MDY1IDkuNjc4YS43ODQ3Ljc4NDcgMCAwIDAgMCAuNzg2N2w1LjYwNjUgOS42Nzc5YS43ODQ3Ljc4NDcgMCAwIDAgLjY3OS4zOTE0aDExLjIxNzZjLjI4IDAgLjUzODctLjE0OTIuNjc5LS4zOTE0bDUuNjA2NS05LjY3OGEuNzg0Ny43ODQ3IDAgMCAwIDAtLjc4NjdsLTUuNjA2NS05LjY3NzlhLjc4NDguNzg0OCAwIDAgMC0uNjc5LS4zOTE0em0uMDMwMi44MzdoMTAuNTQybC01LjIwOTMgOS4yMTEySDUuOTY3OWw0LjcxOTYtOC4xNzQ3YS4xMzA4LjEzMDggMCAwIDAtLjExMzItLjE5NjJMNy41MDYyIDMuMjEzYS4yNjE1LjI2MTUgMCAwIDAtLjIyNjYuMTMwN2wtNC43NjMzIDguMjQxOWgtMS40MzF6bTExLjMzMjUuMzAyNUwyMy4xNTQ5IDEybC01LjM3MjIgOS4yNzM1LTUuMjk4Ny05LjI3ODR6bS4xNzEyIDIuODI0OGEuMTI5NS4xMjk1IDAgMCAwLS4xMTMyLjA2NjVsLTEuNTE4NiAyLjY4OWEuMjYxNi4yNjE2IDAgMCAwIC4wMDEzLjI1OTVsMS45NDMgMy4zNjExYS4yNjE1LjI2MTUgMCAwIDEgMCAuMjYxN2wtMS45MjY4IDMuMzM3NWEuMjYxNi4yNjE2IDAgMCAwLS4wMDA2LjI2MDVsMS41MjcyIDIuNjc0MmMuMDUuMDg3Ny4xNzYzLjA4OC4yMjY4LjAwMDZsMy41NTAzLTYuMTQzMWEuNTIzMS41MjMxIDAgMCAwLS4wMDAxLS41MjM4TDE4LjAzOSA1LjU2N2EuMTI5NS4xMjk1IDAgMCAwLS4xMTM5LS4wNjUzek0xLjA5IDEyLjQyMjVoMS40MzYzbDQuNzYzNCA4LjIzMTRhLjI2MTYuMjYxNiAwIDAgMCAuMjI2Mi4xMzA1bDMuMDcxOC4wMDE4YS4xMzA4LjEzMDggMCAwIDAgLjExMzMtLjE5NjJsLTQuNzIxNS04LjE2NzVoNS43ODQ4bDUuMjU1NyA5LjIwMzJINi40MjE0eiIvPjwvc3ZnPg0K&logoColor=white)
 
-An ambitious game engine using the Vulkan graphics API, split into three modular components:
+A 2D game engine using the Vulkan graphics API, split into three modular components:
 
 * **Application Launcher:** Entry point and project browser built with Avalonia UI (C# / XAML)
 * **Project Editor UI:** UI built using Dear ImGui with Vulkan and GLFW backends (C++)
-* **Core Engine:** Cross-platform runtime, physics, and rendering logic (C++)
+* **Core Engine:** Cross-platform runtime, physics, and rendering logic (C++) `In Development`
 
 <br>
 </br>
@@ -82,15 +83,6 @@ A native Android media player application for offline audio playback and recordi
 
 A Pacman game developed for A-Level Computer Science coursework featuring traditional gameplay and procedural generation
 
-* Standard arcade gameplay alongside procedurally generated maps
+* Standard arcade gameplay alongside procedurally generated maps using DFS
 * SQLite-backed user account system
 * Persistent leaderboard tracking
-
----
-
-### 📊 GitHub Analytics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnair3&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnair3&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" />
-</div>
