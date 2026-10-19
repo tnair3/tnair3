@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>2nd Year Computer Science Student at King's College London</b><br>
-<b>Currently building a Vulkan 2D engine; looking for summer 2027 internships</b><br>
+<b>Currently building a Vulkan 2D engine; looking for 2027/28 placements</b><br>
 </p>
 
 <div align="center">
