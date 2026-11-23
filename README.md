@@ -43,7 +43,7 @@
 
 <h3>👾 Featured Projects</h3>
 
-[![Daedalus Engine Title](https://img.shields.io/badge/-%20Daedalus%20Engine-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnair3/Daedalus)
+[![Daedalus Engine Title](https://img.shields.io/badge/-%20Daedalus%20Engine-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tnair3/daedalus)
 ![In Active Development](https://img.shields.io/badge/In_Active_Development-ff69b4?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-00589C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=white)
